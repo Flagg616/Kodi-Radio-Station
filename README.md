@@ -33,7 +33,6 @@ It does not require Icecast, DarkIce, FFmpeg, or a separate streaming server.
 • Stop  
 • Next track  
 • Seek control  
-• Volume control  
 • Mute  
 • Shuffle  
 • Repeat all  
