@@ -1,4 +1,6 @@
-<img width="502" height="502" alt="Kodi Radio Station Logo" src="https://github.com/user-attachments/assets/297b5d52-1198-478c-8022-2b2a3ca87aee" />
+<div align="center">
+  <img width="502" height="502" alt="Kodi Radio Station Logo" src="https://github.com/user-attachments/assets/297b5d52-1198-478c-8022-2b2a3ca87aee" />
+</div>
 
 # Kodi Radio Station
 
