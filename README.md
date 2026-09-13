@@ -1,3 +1,4 @@
+<img width="1254" height="1254" alt="Kodi Radio Station Logo" src="https://github.com/user-attachments/assets/b617e96a-8649-4963-a7d3-4b9e66f10679" />
 # Kodi Radio Station
 
 Kodi Radio Station is a self-contained Kodi service add-on that turns the music currently playing in Kodi into a simple web radio experience.
