@@ -201,7 +201,7 @@ The add-on supports trusted reverse-proxy addresses and forwarded client informa
 
 ## Requirements
 
-• Kodi  
+• Kodi 20.5 or newer
 • Python support provided by Kodi  
 • MP3 source audio for the external live MP3 stream  
 • Network access to the configured HTTP port  
