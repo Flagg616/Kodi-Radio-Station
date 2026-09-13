@@ -162,8 +162,6 @@ The administrator username and password are configurable in the add-on settings.
 
 Kodi Radio Station can link the currently playing album to TheAudioDB.
 
-No MusicBrainz fallback is used.
-
 If TheAudioDB cannot resolve the album, the add-on simply reports that no album information was found.
 
 ## Reverse Proxy Support
