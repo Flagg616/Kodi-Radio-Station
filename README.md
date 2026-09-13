@@ -9,6 +9,7 @@ Kodi Radio Station is a self-contained Kodi service add-on that turns the music 
 It provides a browser-based now-playing page, a compact embeddable player, remote playback controls, album information, artwork, and a live MP3 stream that can be opened in external players such as Winamp and VLC.
 
 It does not require Icecast, DarkIce, FFmpeg, or a separate streaming server.
+
 <img width="1004" height="299" alt="Screenshot" src="https://github.com/user-attachments/assets/78dd8ef6-edad-4e8c-9fcf-3d97ff44a50c" />
 <img width="1005" height="300" alt="Screenshot 2" src="https://github.com/user-attachments/assets/f7c3c71b-fddc-4111-8150-790082f5b657" />
 
