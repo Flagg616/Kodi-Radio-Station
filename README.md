@@ -144,7 +144,6 @@ Available controls include:
 • Stop  
 • Next  
 • Seek  
-• Volume  
 • Mute  
 • Shuffle  
 • Repeat all  
